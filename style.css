@@ -342,9 +342,6 @@ img {
   background-color: var(--color-bg-light);
 }
 
-.projects-container {
-}
-
 .projects-header {
   max-width: 520px;
   margin-bottom: var(--spacing-64);
@@ -505,7 +502,7 @@ img {
   font-size: 14px;
   line-height: 24px;
   font-weight: 500;
-  color: var(--color-text-secondary);
+  color: var(--color-primary);
   text-decoration: none;
   cursor: default;
 }
